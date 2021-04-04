@@ -106,8 +106,8 @@ filter: grayscale(90%);
 {
   /*the child is absolute*/
   position: absolute;
-  top: 18rem;
-  left: 5rem;
+  top: 15rem;
+  left: 2rem;
   width: 80%;
 }
 .primary-news-text h4
